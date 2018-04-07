@@ -1,2 +1,2 @@
 # angular-js-xlsx
-An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) [https://github.com/SheetJS/js-xlsx](https://github.com/SheetJS/js-xlsx)
+angular1.5.6 JSON数据导出xlsx
